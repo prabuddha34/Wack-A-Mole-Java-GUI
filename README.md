@@ -7,8 +7,9 @@ Click the mole to score points and **avoid the piranha plant** or it's GAME OVER
 
 ## 📸 Preview
 
-![Game Screenshot](./screenshot.png)  
-> 📝 Add a screenshot of your game in the root folder and name it `screenshot.png`
+
+![Screenshot 2025-05-28 103147](https://github.com/user-attachments/assets/d8024b74-fac3-4e48-aeb3-66bb81031c37)
+
 
 ---
 
@@ -29,9 +30,3 @@ Click the mole to score points and **avoid the piranha plant** or it's GAME OVER
 
 ---
 
-## 🚀 Run the Game
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/whack-a-mole.git
-   cd whack-a-mole
